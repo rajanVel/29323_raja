@@ -7,6 +7,8 @@
         "longitude": "-122.3892",
         "state": "California",
         "state abbreviation": "CA",
+        
+        
         "latitude": "37.7864"
     }]
     
